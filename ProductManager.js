@@ -1,7 +1,8 @@
 class ProductManager {
-    products = [];
-    latestId = 0;
-    constructor(){};
+    constructor(){
+        this.products = [];
+        this.latestId = 0;
+    };
     addProduct(title,description,price,thumbnail,code,stock){
         if (title !== '' && description !== '' && price > 0 && thumbnail !== '' && stock > 0 && code !== ''){
             if (!(this.products.some(product => product.code === code))) {
