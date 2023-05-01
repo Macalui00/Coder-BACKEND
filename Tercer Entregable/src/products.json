@@ -1,0 +1,91 @@
+[{
+        "id": 0,
+        "title": "Gorra de sol", 
+        "description": "Gorra de Sol Adidas",
+        "price": 4300, 
+        "thumbnail": "Sin imagen", 
+        "code": "xsa213s", 
+        "stock": 13
+    },
+    {
+        "id": 1,
+        "title": "Gomita de Pelo", 
+        "description": "Gomita de Pelo de tela.",
+        "price": 2000, 
+        "thumbnail": "Sin imagen", 
+        "code": "aqw120g", 
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "title": "Zapatillas", 
+        "description": "Zapatillas Nike",
+        "price": 28000, 
+        "thumbnail": "Sin imagen", 
+        "code": "aq1f27d", 
+        "stock": 5
+    },
+    {
+        "id": 3,
+        "title": "Sandalias", 
+        "description": "Sandalias Goma",
+        "price": 230000, 
+        "thumbnail": "Sin imagen", 
+        "code": "aqw23c3", 
+        "stock": 4
+    },
+    {
+        "id": 4,
+        "title": "Maya enteriza", 
+        "description": "Maya enteriza",
+        "price": 7200, 
+        "thumbnail": "Sin imagen", 
+        "code": "dge12c3", 
+        "stock": 14
+    },
+    {
+        "id": 5,
+        "title": "Pantalon", 
+        "description": "Pantalon Puma",
+        "price": 21300, 
+        "thumbnail": "Sin imagen", 
+        "code": "zvd1236", 
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "title": "Medias", 
+        "description": "Medias Adidas",
+        "price": 5430, 
+        "thumbnail": "Sin imagen", 
+        "code": "vv1234s", 
+        "stock": 18
+    },
+    {
+        "id": 7,
+        "title": "Guantes Boxeo", 
+        "description": "Guantes de Boxeo",
+        "price": 20230, 
+        "thumbnail": "Sin imagen", 
+        "code": "asd82ss", 
+        "stock": 23
+    },
+    {
+        "id": 8,
+        "title": "Tennis", 
+        "description": "Tennis Adidas",
+        "price": 34500, 
+        "thumbnail": "Sin imagen", 
+        "code": "asfa82as", 
+        "stock": 20
+    },
+    {
+        "id": 9,
+        "title": "Calzas", 
+        "description": "Calzas Nike",
+        "price": 9500, 
+        "thumbnail": "Sin imagen", 
+        "code": "cvfa82as", 
+        "stock": 14
+    }
+]
